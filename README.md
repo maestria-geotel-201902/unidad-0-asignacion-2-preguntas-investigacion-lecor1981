@@ -11,12 +11,13 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ...
+* Donde incide más el Dióxido de Carbono en nuestro país?
 
-* ...
+* Siendo el Dióxido de Carbono, el más importante GEI asociado a actividades humanas, podremos delimitar el efecto en nuestro clima, por zonas?
 
-* ...
+* Existe una relación entre la cantidad emitida del Dióxido en una zona y su variación climática en el tiempo? 
 
-* ...
+* Que tipos de datos se necesitan, para desarrollar una proyección del cambio climático de nuestro país?
 
-* ...
+* Es factible crear un modelo de predicción climática a partir de la emisión del Dióxido de Carbono?
+
